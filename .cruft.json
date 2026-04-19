@@ -1,0 +1,27 @@
+{
+  "template": "/Users/ameet/Documents/Work/AlanTuring/git/orbit-ai-framework/../i-dot-ai-cookiecutter",
+  "commit": "01ad746c08205b7d7a6b52cca15d0a72c8f01303",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Orbit - AI Framework",
+      "app_name": "orbit",
+      "_copy_without_render": [
+        "*.html",
+        "*.js",
+        "*.css",
+        "*.ico",
+        "*.ttf"
+      ],
+      "frontend_framework": "nextjs",
+      "backend_framework": "fastapi",
+      "database_backend": "With user groups",
+      "_integration_test": "false",
+      "__perms_boundary_app_name": "orbit",
+      "owner": "Ameet Patil",
+      "email_address": "ameet.patil@cabinetoffice.gov.uk",
+      "_template": "/Users/ameet/Documents/Work/AlanTuring/git/orbit-ai-framework/../i-dot-ai-cookiecutter"
+    }
+  },
+  "directory": "templates/webapp-ecs"
+}
